@@ -1,0 +1,16 @@
+detect the image 
+$ python yolo_video.py --image 
+
+detect the video
+$ python yolo_video.py --input
+
+the trained_weights_final.h5 is the same to trained_weights_final_bigv.h5
+and the yolo_weights.h5 is the original file from yolo
+
+and the trained_weights_final on the desktop is my first version of mask_detection training(poor show)
+
+you can edit the "model_path": 'model_data/trained_weights_final.h5' in yolo.py to change another model.h5
+
+---diary on 5/14
+DATA TO 5/14 THE  "trained_weights_final_5141.h5" is the most successfully version to detect it 
+---2020-05-14 17:40:00.191794
