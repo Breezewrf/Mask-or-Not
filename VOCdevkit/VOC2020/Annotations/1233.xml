@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>1233.jpg</filename>
+	<path>C:\Users\Breeze\Desktop\keras-yolo3-master\VOCdevkit\VOC2020\JPEGImages\1233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>422</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>98</ymin>
+			<xmax>317</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>611.jpg</filename>
+	<path>C:\Users\Breeze\Desktop\keras-yolo3-master\VOCdevkit\VOC2020\JPEGImages\611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>7</ymin>
+			<xmax>700</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

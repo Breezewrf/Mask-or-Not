@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JEPGImages</folder>
+	<filename>106.jpg</filename>
+	<path>C:\Users\Breeze\Desktop\keras-yolo3-master\VOCdevkit\JEPGImages\106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>690</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>34</ymin>
+			<xmax>523</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>
