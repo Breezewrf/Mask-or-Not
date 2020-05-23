@@ -1,0 +1,10 @@
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1017.jpg 245,24,548,415,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1041.jpg 264,4,550,328,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1121.jpg 145,48,479,465,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1166.jpg 405,156,643,517,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1340.jpg 155,141,313,376,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/315.jpg 373,9,802,650,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/582.jpg 783,611,1006,912,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/630.jpg 233,152,314,259,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/637.jpg 189,38,511,482,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/768.jpg 115,32,220,141,0

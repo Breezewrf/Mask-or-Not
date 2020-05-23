@@ -1,0 +1,900 @@
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/0.jpg 197,187,363,399,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/10.jpg 177,2,226,63,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/100.jpg 137,53,295,225,1 687,55,844,230,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1001.jpg 115,28,394,333,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1002.jpg 152,57,445,451,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1003.jpg 130,37,336,318,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1004.jpg 513,49,862,574,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1006.jpg 179,115,257,261,1 523,120,608,248,1 732,76,840,216,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1007.jpg 386,169,739,603,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1008.jpg 661,55,761,173,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1009.jpg 309,73,523,399,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1010.jpg 394,710,624,989,1 562,517,771,761,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1011.jpg 28,11,81,77,0 155,26,207,89,0 408,19,456,92,0 161,175,218,244,0 277,158,338,231,1 402,181,463,254,1 20,161,81,234,1 265,4,353,114,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1012.jpg 118,54,310,346,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1013.jpg 170,86,225,170,1 281,44,342,132,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1014.jpg 352,58,543,280,1 176,47,352,294,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1015.jpg 275,133,508,450,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1016.jpg 275,123,709,706,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1018.jpg 105,137,273,334,1 304,120,463,345,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1019.jpg 30,17,266,288,1 757,72,976,347,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/102.jpg 25,112,281,371,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1020.jpg 227,12,602,507,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1022.jpg 604,209,653,271,1 82,174,119,258,1 142,171,181,263,1 264,167,303,259,1 220,167,259,259,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1023.jpg 140,174,852,997,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1025.jpg 581,120,863,465,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1026.jpg 381,78,559,367,1 585,129,793,431,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1027.jpg 246,44,504,356,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1028.jpg 217,83,678,656,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1030.jpg 116,11,193,148,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1031.jpg 206,187,330,397,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1032.jpg 233,165,399,361,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1033.jpg 21,5,55,52,0 21,57,55,104,0 51,63,85,110,0 80,7,114,54,0 109,62,140,103,0 81,60,112,101,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1034.jpg 389,91,699,551,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1035.jpg 276,33,426,228,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1036.jpg 684,31,938,412,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1037.jpg 577,23,971,610,1 150,125,550,648,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1039.jpg 289,211,567,569,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1040.jpg 76,19,228,220,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1042.jpg 60,306,132,396,0 119,286,194,375,0 227,289,302,378,0 347,302,422,391,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1043.jpg 306,298,499,586,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1044.jpg 424,102,696,431,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1045.jpg 331,98,452,272,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1046.jpg 917,155,973,238,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1047.jpg 392,15,492,153,1 580,22,668,120,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1048.jpg 181,12,411,336,1 688,25,883,342,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1049.jpg 360,176,465,343,1 700,516,776,615,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1050.jpg 131,1,635,620,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1051.jpg 24,17,341,415,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1052.jpg 437,111,589,352,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1053.jpg 357,76,540,303,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1055.jpg 714,348,747,386,1 684,317,717,355,1 743,229,776,267,1 778,255,811,293,1 545,223,578,261,1 524,240,557,278,1 405,278,438,316,1 360,310,393,348,1 300,316,333,354,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1057.jpg 264,21,506,392,1 517,14,838,316,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1058.jpg 392,331,612,642,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/106.jpg 201,34,523,458,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1060.jpg 171,5,487,475,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1061.jpg 139,108,975,1170,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1062.jpg 151,19,297,155,1 152,283,268,411,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1063.jpg 341,119,708,674,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1064.jpg 474,21,657,282,1 576,713,696,852,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1066.jpg 238,162,460,480,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1067.jpg 332,178,675,705,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1068.jpg 496,5,574,109,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1069.jpg 15,5,137,131,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1070.jpg 41,9,416,318,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1073.jpg 328,71,507,287,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1074.jpg 319,134,452,335,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1075.jpg 251,265,487,423,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1076.jpg 450,221,677,553,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1077.jpg 48,103,125,179,1 280,67,340,144,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1078.jpg 39,6,79,64,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1079.jpg 512,386,582,475,1 446,361,516,450,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1080.jpg 103,55,248,240,0 259,85,405,253,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1082.jpg 406,59,615,291,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1083.jpg 186,34,305,237,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1084.jpg 581,255,786,506,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1085.jpg 195,26,311,188,1 696,39,807,199,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1086.jpg 58,20,218,239,1 571,59,731,278,1 183,436,343,655,1 701,446,861,665,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1087.jpg 298,21,512,267,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1088.jpg 398,120,668,486,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1090.jpg 222,414,267,462,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1091.jpg 268,97,821,953,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1092.jpg 154,65,226,152,1 211,44,283,131,1 717,314,789,401,1 626,256,728,408,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1093.jpg 229,38,557,594,1 548,248,775,652,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1094.jpg 458,65,635,329,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1095.jpg 157,23,290,211,1 330,41,463,229,1 813,22,959,234,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1096.jpg 477,2,581,134,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1097.jpg 169,312,280,417,1 331,178,442,283,1 488,204,578,304,1 676,281,766,381,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1098.jpg 181,39,290,214,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1099.jpg 444,17,697,352,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/11.jpg 582,26,955,528,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1100.jpg 116,118,460,594,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1101.jpg 49,7,363,380,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1102.jpg 458,630,600,778,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1103.jpg 411,30,532,217,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1104.jpg 279,24,667,501,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1105.jpg 196,147,305,297,1 716,161,839,301,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1106.jpg 224,7,468,244,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1108.jpg 175,86,832,1014,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/111.jpg 371,81,682,483,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1110.jpg 76,52,252,295,1 56,473,232,716,1 206,404,382,647,1 338,33,514,276,1 529,65,705,308,1 726,127,902,370,1 614,450,790,693,1 768,408,944,651,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1111.jpg 321,108,762,676,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1112.jpg 535,50,788,434,1 270,9,523,393,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1113.jpg 363,43,500,232,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1115.jpg 221,89,350,255,1 583,165,712,331,1 693,126,822,292,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1116.jpg 194,39,326,218,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1118.jpg 188,111,575,598,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1119.jpg 75,89,157,180,1 314,204,396,295,1 410,20,492,111,1 589,70,671,161,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1120.jpg 1,117,110,259,1 228,44,357,216,1 405,145,514,287,1 682,85,791,227,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1122.jpg 129,20,267,188,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1123.jpg 147,68,271,248,1 550,122,654,280,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1124.jpg 450,73,627,372,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1125.jpg 119,59,190,157,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1126.jpg 38,43,98,126,0 242,51,301,128,0 437,14,496,91,0 336,50,396,133,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1127.jpg 26,3,312,324,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1128.jpg 143,13,272,160,0 246,259,337,356,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1129.jpg 459,128,712,387,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1130.jpg 43,17,211,261,1 583,20,756,289,1 320,16,494,261,0 18,458,192,703,0 206,493,380,738,0 421,482,595,727,0 609,464,783,709,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1131.jpg 226,36,551,471,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1132.jpg 398,9,608,251,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1133.jpg 160,60,239,147,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1134.jpg 77,57,511,594,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1135.jpg 73,17,355,316,0 628,29,910,328,0 94,783,376,1082,0 660,858,942,1157,0 658,856,940,1155,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1136.jpg 116,109,335,423,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1137.jpg 83,33,230,265,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1139.jpg 80,33,374,386,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/114.jpg 177,20,485,361,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1140.jpg 412,20,582,199,1 712,6,882,185,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1141.jpg 365,55,721,624,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1142.jpg 265,12,369,156,0 367,30,471,174,0 52,6,149,95,0 111,117,230,246,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1143.jpg 144,341,160,365,1 207,337,227,362,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1144.jpg 75,35,961,1221,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1145.jpg 8,8,73,94,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1147.jpg 155,34,308,214,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1148.jpg 258,14,704,507,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1149.jpg 36,2,150,121,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/115.jpg 213,42,585,445,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1150.jpg 325,111,611,510,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1151.jpg 79,80,170,186,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1152.jpg 84,52,183,172,1 360,54,449,182,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1153.jpg 99,562,207,730,0 425,560,548,734,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1154.jpg 161,78,214,152,1 388,101,441,175,1 508,135,561,209,1 581,123,634,197,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1155.jpg 121,39,188,155,1 245,78,281,135,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1156.jpg 70,11,374,407,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1157.jpg 62,5,135,137,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1158.jpg 34,3,120,131,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1161.jpg 171,15,542,494,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1162.jpg 224,313,303,410,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1163.jpg 258,41,405,250,0 1,105,62,268,1 566,131,683,335,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1164.jpg 211,133,343,310,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1165.jpg 166,82,283,240,0 482,87,599,245,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1167.jpg 12,8,282,334,0 304,45,555,362,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1168.jpg 287,279,433,499,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1169.jpg 601,42,747,217,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1170.jpg 356,99,616,436,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1172.jpg 346,74,482,299,1 247,98,351,307,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1173.jpg 488,135,661,341,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1174.jpg 321,77,712,700,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1175.jpg 778,180,1116,654,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1176.jpg 219,125,369,327,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1177.jpg 53,13,175,152,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1178.jpg 368,129,491,279,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1179.jpg 70,184,541,639,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/118.jpg 125,117,218,208,0 112,4,192,106,1 232,111,293,174,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1180.jpg 51,48,381,443,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1181.jpg 363,415,390,445,1 391,288,418,318,1 518,346,545,376,1 611,295,638,325,1 628,394,655,424,1 723,371,750,401,1 778,238,805,268,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1182.jpg 243,216,320,328,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1183.jpg 282,32,496,265,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1184.jpg 332,285,458,453,1 707,285,833,453,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1185.jpg 123,75,246,230,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1186.jpg 233,160,319,286,0 19,202,82,297,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1187.jpg 412,167,496,286,1 685,163,769,282,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1189.jpg 456,52,566,217,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1190.jpg 374,141,639,466,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1191.jpg 151,191,219,270,1 499,208,567,287,1 840,174,923,263,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1192.jpg 232,266,491,570,1 453,185,712,489,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1193.jpg 91,18,238,236,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1195.jpg 770,194,944,444,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1196.jpg 115,177,158,237,1 321,184,364,244,1 404,179,447,239,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1198.jpg 300,59,436,223,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1199.jpg 362,120,478,285,1 570,30,686,195,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1200.jpg 7,194,111,347,1 286,93,390,246,1 411,75,515,228,1 697,242,801,395,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1201.jpg 233,146,719,820,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1202.jpg 365,43,577,350,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1203.jpg 291,235,752,904,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1204.jpg 392,44,629,429,1 611,180,863,500,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1205.jpg 351,102,486,307,1 474,97,624,278,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1206.jpg 42,14,131,113,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1207.jpg 115,23,196,145,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1208.jpg 297,60,480,373,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1209.jpg 38,12,161,143,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/121.jpg 618,18,1439,1254,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1210.jpg 81,126,799,1105,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1211.jpg 353,229,769,748,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1212.jpg 445,33,832,564,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1213.jpg 173,129,264,267,1 416,33,517,167,1 730,245,839,377,1 861,172,985,343,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1214.jpg 362,246,439,334,1 444,220,521,308,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1215.jpg 21,13,85,83,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1216.jpg 115,20,297,276,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1217.jpg 111,41,308,293,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1218.jpg 344,163,420,266,1 475,155,549,255,1 626,139,705,247,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/122.jpg 194,13,497,423,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1220.jpg 148,167,792,979,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1221.jpg 105,7,280,204,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1222.jpg 93,136,417,503,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1223.jpg 212,28,540,525,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1224.jpg 426,122,548,299,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1225.jpg 138,6,421,406,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1226.jpg 120,70,267,299,1 427,61,574,290,1 725,62,872,291,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1227.jpg 381,50,692,528,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1228.jpg 311,29,414,183,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1229.jpg 200,18,360,233,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/123.jpg 123,112,321,414,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1230.jpg 23,63,334,505,0 394,33,787,510,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1231.jpg 93,79,445,453,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1232.jpg 374,174,415,237,1 612,227,646,274,1 874,185,908,232,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1234.jpg 289,55,387,186,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1235.jpg 196,11,276,127,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1236.jpg 302,53,388,177,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1237.jpg 155,25,404,305,1 684,102,933,382,1 374,277,615,554,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1238.jpg 188,32,342,225,1 638,30,792,223,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1239.jpg 147,42,480,570,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1241.jpg 138,114,187,186,1 220,128,269,200,1 311,146,360,218,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1242.jpg 77,226,151,339,1 209,247,283,360,1 385,200,459,313,1 604,215,678,328,1 723,233,797,346,1 856,255,930,368,1 487,121,561,234,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1243.jpg 676,211,834,430,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1244.jpg 190,122,267,202,1 511,185,588,265,1 657,205,734,285,1 862,230,909,284,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1245.jpg 56,44,899,1383,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1246.jpg 433,229,638,493,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1247.jpg 572,57,771,295,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1248.jpg 425,101,522,242,1 501,16,606,190,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1250.jpg 445,513,642,821,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1251.jpg 218,75,313,204,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1252.jpg 347,26,604,330,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1253.jpg 731,393,1329,1217,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1256.jpg 250,223,476,457,1 346,48,595,297,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1257.jpg 36,11,151,158,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1258.jpg 179,71,604,585,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1259.jpg 745,11,769,43,1 300,314,333,351,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1261.jpg 445,50,618,255,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1262.jpg 79,103,475,679,1 384,143,832,579,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1263.jpg 230,118,422,381,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1264.jpg 70,36,168,143,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1265.jpg 175,35,261,149,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1266.jpg 38,3,120,111,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1267.jpg 633,317,703,401,1 518,303,588,387,1 400,338,470,422,1 927,298,997,382,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1268.jpg 681,178,801,338,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1269.jpg 123,111,263,305,1 423,152,563,346,1 614,40,754,234,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1270.jpg 73,47,373,527,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1271.jpg 415,38,708,466,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1272.jpg 96,71,188,201,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1273.jpg 715,200,753,257,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1275.jpg 176,36,303,232,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1276.jpg 188,216,602,607,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1277.jpg 232,107,465,497,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1278.jpg 86,28,264,309,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1279.jpg 633,327,758,511,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1280.jpg 315,134,658,490,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1281.jpg 62,37,127,134,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1282.jpg 78,106,315,466,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1283.jpg 403,112,528,273,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1284.jpg 191,39,294,204,1 718,24,821,189,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1285.jpg 260,95,621,576,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1286.jpg 379,72,512,305,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1287.jpg 66,24,284,363,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1288.jpg 199,163,296,293,1 424,48,521,178,1 628,107,725,237,1 788,8,858,101,1 148,57,218,150,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1289.jpg 268,92,414,302,0 430,224,570,411,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1291.jpg 336,32,428,162,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1292.jpg 412,49,623,311,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1293.jpg 402,50,654,387,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1294.jpg 83,36,408,517,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1296.jpg 443,104,586,309,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1297.jpg 257,55,316,156,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1298.jpg 143,65,325,295,1 648,32,778,238,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1299.jpg 217,127,436,379,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/13.jpg 2,4,200,244,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/130.jpg 177,23,920,1074,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1300.jpg 486,323,792,560,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1301.jpg 194,9,272,124,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1302.jpg 193,43,435,406,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1304.jpg 189,212,231,269,1 137,181,179,238,1 82,193,124,250,1 16,192,58,249,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1305.jpg 103,36,253,268,0 268,14,496,277,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1306.jpg 166,48,519,570,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1307.jpg 410,34,658,409,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1308.jpg 90,55,214,228,1 550,28,1002,661,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1309.jpg 506,18,699,215,1 728,542,955,738,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1310.jpg 228,347,266,413,1 269,379,323,449,1 741,203,799,284,1 799,189,857,270,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1311.jpg 366,288,535,489,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1312.jpg 308,66,455,259,1 643,79,790,272,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1313.jpg 260,121,430,367,1 558,25,728,271,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1314.jpg 6,105,55,170,1 39,192,88,257,1 134,234,183,299,1 250,203,299,268,1 278,44,327,109,1 383,75,432,140,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1315.jpg 80,19,228,235,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1316.jpg 299,153,592,614,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1317.jpg 84,32,146,120,0 139,7,265,127,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1318.jpg 85,219,193,360,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1319.jpg 332,69,641,544,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1320.jpg 196,221,880,1252,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1321.jpg 593,121,684,251,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1322.jpg 438,50,584,303,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1323.jpg 180,249,746,887,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1324.jpg 33,32,158,218,0 217,42,342,228,0 396,38,521,224,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1325.jpg 166,13,433,404,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1326.jpg 412,100,629,422,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1328.jpg 164,106,517,511,0 47,518,234,731,0 310,535,482,731,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1329.jpg 158,81,298,296,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1330.jpg 157,357,263,489,1 332,355,438,487,1 488,401,594,533,1 717,341,823,473,1 644,1039,750,1171,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1331.jpg 186,46,264,153,0 349,16,427,123,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1332.jpg 363,26,467,192,1 567,30,671,196,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1333.jpg 144,69,337,295,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1334.jpg 145,75,243,226,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1335.jpg 439,148,790,614,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1336.jpg 163,62,370,335,1 653,37,860,310,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1337.jpg 555,183,731,375,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1339.jpg 93,49,203,238,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1341.jpg 95,9,164,118,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1342.jpg 245,357,708,1017,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1344.jpg 186,66,500,508,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1345.jpg 245,187,432,421,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1346.jpg 168,175,245,278,0 1,195,55,257,1 470,103,548,219,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1347.jpg 225,28,741,585,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1348.jpg 120,60,284,309,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1349.jpg 373,72,521,316,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1350.jpg 60,78,299,438,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1351.jpg 25,20,290,345,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1352.jpg 153,168,389,443,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1353.jpg 115,9,166,97,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1354.jpg 71,72,272,351,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1355.jpg 449,135,853,759,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1356.jpg 155,42,1295,912,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1357.jpg 79,40,185,193,0 236,41,367,206,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1358.jpg 320,9,389,104,1 585,85,652,176,1 861,215,909,285,1 462,233,508,298,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1359.jpg 524,15,684,216,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/136.jpg 253,12,581,483,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1360.jpg 54,19,157,164,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1362.jpg 370,152,485,294,0 105,257,205,398,1 653,144,771,294,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1363.jpg 556,69,799,338,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1364.jpg 196,72,554,501,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1365.jpg 181,119,479,565,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1367.jpg 41,18,146,167,0 54,294,108,378,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1368.jpg 191,47,302,222,0 364,65,466,192,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1369.jpg 188,9,275,127,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1370.jpg 118,87,290,255,0 245,9,388,174,0 375,33,496,238,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1371.jpg 44,21,235,304,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1372.jpg 151,104,212,183,1 286,130,339,197,1 765,104,817,182,1 729,244,782,300,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1373.jpg 60,106,717,1093,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1374.jpg 658,283,689,333,1 735,274,766,324,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1375.jpg 85,173,326,425,1 78,16,208,138,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1376.jpg 253,105,414,300,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1377.jpg 59,88,393,428,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1378.jpg 142,91,327,411,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/138.jpg 114,28,337,363,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1380.jpg 34,61,214,306,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1381.jpg 312,111,799,931,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1382.jpg 5,203,260,586,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1383.jpg 571,235,660,317,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1384.jpg 90,709,156,808,1 608,509,648,562,1 652,725,715,793,1 718,1026,770,1107,1 786,762,842,812,1 894,750,942,801,1 688,518,735,586,1 563,521,581,574,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1385.jpg 266,41,395,211,1 489,21,638,215,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1386.jpg 245,70,402,302,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1387.jpg 447,182,616,386,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1388.jpg 197,217,546,660,1 626,438,826,674,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1389.jpg 387,141,634,497,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/139.jpg 471,184,731,543,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1391.jpg 17,44,173,239,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1392.jpg 153,35,347,330,1 650,17,815,292,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1393.jpg 77,14,215,199,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1394.jpg 199,135,307,282,0 321,415,413,546,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1395.jpg 258,104,340,208,1 480,88,562,192,1 688,116,770,220,1 694,333,776,437,1 496,312,578,416,1 239,294,321,398,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1396.jpg 484,72,724,451,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1397.jpg 573,22,1013,521,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1399.jpg 414,54,701,388,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/140.jpg 116,105,539,672,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1400.jpg 184,253,230,325,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1401.jpg 20,22,96,129,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1402.jpg 15,42,111,219,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1403.jpg 211,82,254,140,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1404.jpg 290,175,901,977,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1405.jpg 59,2,121,61,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1406.jpg 164,135,282,291,1 706,396,846,539,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1407.jpg 338,103,676,502,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1408.jpg 337,202,451,355,1 638,251,740,358,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1409.jpg 352,24,687,524,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1410.jpg 327,168,807,924,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1411.jpg 70,32,241,289,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1412.jpg 104,147,217,296,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1413.jpg 82,64,161,183,1 254,110,329,227,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1414.jpg 61,24,140,149,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1415.jpg 103,4,294,290,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1416.jpg 142,463,312,681,1 221,231,391,449,1 366,368,536,586,1 540,132,710,350,1 563,356,733,574,1 878,339,1048,557,1 898,173,1068,391,1 1119,337,1289,555,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1417.jpg 67,19,146,146,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1418.jpg 169,32,282,172,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1419.jpg 150,6,406,249,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1420.jpg 432,219,561,380,0 543,326,672,487,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1421.jpg 46,66,474,530,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1422.jpg 434,221,663,506,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1423.jpg 93,94,296,388,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1424.jpg 336,21,615,318,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1425.jpg 74,32,218,236,1 587,22,731,226,1 767,70,911,274,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1426.jpg 205,106,335,291,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1427.jpg 417,183,516,329,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1428.jpg 133,126,304,363,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1430.jpg 574,89,688,232,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1431.jpg 522,25,587,109,1 584,66,647,124,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1432.jpg 13,13,532,445,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1433.jpg 304,96,522,416,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1434.jpg 562,29,764,328,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1435.jpg 339,175,556,451,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1436.jpg 166,27,414,383,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1437.jpg 16,7,104,97,0 129,40,175,134,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1438.jpg 189,30,302,189,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1439.jpg 46,100,264,437,0 338,82,556,413,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/144.jpg 152,100,356,308,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1440.jpg 376,363,486,484,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1441.jpg 370,117,609,440,1 25,7,264,330,1 782,28,1021,351,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1442.jpg 422,306,476,365,1 579,277,633,336,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1443.jpg 708,44,849,247,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1444.jpg 29,16,373,404,1 615,26,978,472,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1445.jpg 159,18,313,220,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1446.jpg 246,105,856,1078,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1447.jpg 94,37,350,379,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1448.jpg 862,175,931,241,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1449.jpg 81,2,150,100,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1450.jpg 369,340,503,534,1 570,289,704,483,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1451.jpg 76,107,319,443,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1452.jpg 265,49,606,598,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1453.jpg 297,758,436,960,1 642,871,748,1024,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1454.jpg 562,136,603,194,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1455.jpg 397,134,509,286,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1456.jpg 608,176,828,515,1 178,84,398,423,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1457.jpg 352,152,454,295,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1458.jpg 461,297,943,995,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1459.jpg 225,21,320,175,1 654,23,749,177,1 756,30,851,184,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1460.jpg 283,26,550,405,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1461.jpg 64,10,169,164,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1462.jpg 261,69,329,162,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1463.jpg 300,65,499,322,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1464.jpg 197,136,812,1028,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1465.jpg 492,117,744,334,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1466.jpg 68,36,198,325,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1467.jpg 154,7,352,255,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1468.jpg 150,16,219,117,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1469.jpg 265,244,505,526,0 11,231,183,541,1 77,30,273,298,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1470.jpg 189,117,780,919,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1471.jpg 456,483,682,748,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1472.jpg 78,32,154,178,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1473.jpg 148,53,442,366,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1474.jpg 79,8,173,149,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1475.jpg 299,57,529,350,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1476.jpg 222,106,382,343,1 531,53,746,338,1 81,500,203,586,1 495,448,640,548,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1478.jpg 61,251,125,334,1 198,197,262,280,1 18,46,82,129,1 124,70,188,153,1 215,50,279,133,1 374,20,438,103,1 472,31,536,114,1 543,49,607,132,1 621,58,685,141,1 728,63,792,146,1 827,79,891,162,1 955,49,1019,132,1 889,275,953,358,1 772,261,836,344,1 658,252,722,335,1 552,233,616,316,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1479.jpg 375,293,411,342,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/148.jpg 307,180,793,693,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1480.jpg 272,154,375,301,1 742,191,864,334,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1481.jpg 91,39,184,176,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1483.jpg 15,41,112,257,1 239,67,365,218,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1484.jpg 6,101,66,186,0 176,115,239,190,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1485.jpg 518,98,687,350,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1487.jpg 38,13,253,390,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1488.jpg 158,23,221,129,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1489.jpg 54,4,136,123,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1490.jpg 100,59,351,329,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1491.jpg 38,171,189,359,1 256,64,407,252,1 431,38,582,226,1 592,29,743,217,1 857,101,1008,289,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1492.jpg 547,73,661,207,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1493.jpg 121,25,325,288,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1494.jpg 76,94,218,320,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1495.jpg 417,15,562,274,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1496.jpg 74,46,233,256,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1497.jpg 154,225,220,308,1 218,250,273,318,1 572,79,690,248,1 782,89,925,257,1 705,219,737,267,1 739,228,775,276,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1498.jpg 14,159,362,530,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1499.jpg 186,97,541,691,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/1500.jpg 243,45,415,245,1 179,258,351,458,1 340,265,512,465,1 319,540,491,740,1 504,156,676,356,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/152.jpg 68,6,259,281,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/154.jpg 109,14,469,447,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/158.jpg 248,65,538,486,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/16.jpg 165,5,366,319,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/171.jpg 260,33,591,411,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/18.jpg 225,143,739,812,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/180.jpg 221,261,514,634,1 540,157,830,590,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/181.jpg 513,79,885,430,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/185.jpg 140,36,266,191,0 98,167,125,199,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/187.jpg 127,10,360,284,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/188.jpg 47,30,147,162,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/19.jpg 239,89,440,387,0 592,208,683,365,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/190.jpg 171,20,848,732,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/191.jpg 200,10,833,863,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/192.jpg 3,1,110,140,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/193.jpg 37,33,239,324,1 215,17,397,239,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/194.jpg 1,12,201,317,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/195.jpg 133,3,524,421,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/198.jpg 241,1,560,399,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/199.jpg 78,51,271,316,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/2.jpg 180,145,282,247,1 19,201,116,306,1 373,149,492,259,1 529,161,755,395,1 861,325,922,397,1 930,394,991,447,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/201.jpg 9,13,467,601,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/203.jpg 175,1,304,183,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/204.jpg 76,51,126,130,0 124,1,205,125,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/205.jpg 365,93,734,501,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/208.jpg 266,152,494,467,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/209.jpg 9,10,328,394,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/212.jpg 68,302,329,551,1 615,160,850,433,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/214.jpg 255,17,397,210,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/223.jpg 169,21,404,287,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/224.jpg 279,45,787,742,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/235.jpg 249,123,441,376,0 421,16,625,326,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/236.jpg 192,5,702,585,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/237.jpg 200,203,533,596,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/24.jpg 216,13,966,1083,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/242.jpg 210,28,778,673,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/243.jpg 89,7,464,497,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/244.jpg 213,41,559,505,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/245.jpg 220,5,523,307,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/246.jpg 246,14,577,475,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/25.jpg 704,37,819,197,1 184,36,294,178,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/255.jpg 382,33,635,416,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/256.jpg 232,38,521,559,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/259.jpg 200,12,310,182,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/26.jpg 115,5,330,255,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/260.jpg 277,7,741,520,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/261.jpg 13,165,358,629,0 380,22,786,596,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/263.jpg 384,3,734,491,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/265.jpg 225,20,664,632,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/267.jpg 262,11,528,329,1 578,72,773,267,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/268.jpg 358,61,651,475,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/270.jpg 405,207,650,475,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/271.jpg 324,219,1121,1204,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/274.jpg 100,6,205,131,1 375,8,470,125,1 616,8,696,124,1 848,9,947,143,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/275.jpg 409,138,693,505,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/276.jpg 283,12,731,557,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/278.jpg 344,2,645,366,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/28.jpg 206,44,933,898,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/281.jpg 105,15,461,386,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/283.jpg 155,39,324,236,1 635,5,791,231,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/284.jpg 390,4,716,420,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/285.jpg 17,8,122,121,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/287.jpg 169,25,383,280,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/288.jpg 101,9,402,411,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/289.jpg 22,10,917,1190,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/290.jpg 101,14,328,322,1 736,58,955,357,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/291.jpg 149,28,325,219,1 306,171,376,289,1 403,151,528,297,1 665,129,829,307,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/292.jpg 112,291,408,560,0 375,206,706,507,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/296.jpg 239,197,847,988,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/299.jpg 126,19,627,369,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/3.jpg
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/300.jpg 63,245,267,554,0 351,16,708,464,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/302.jpg 45,2,158,133,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/303.jpg 640,143,957,545,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/304.jpg 203,92,820,942,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/31.jpg 82,321,204,444,1 377,151,521,332,1 652,49,853,257,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/310.jpg 340,30,615,441,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/313.jpg 88,5,281,280,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/317.jpg 78,8,239,215,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/320.jpg 230,35,571,491,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/321.jpg 216,85,632,710,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/322.jpg 245,195,740,755,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/323.jpg 237,31,602,511,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/326.jpg 30,104,312,343,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/330.jpg 244,6,543,331,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/331.jpg 53,11,505,458,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/334.jpg 134,130,693,612,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/340.jpg 277,1,564,370,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/342.jpg 250,126,480,446,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/350.jpg 141,13,616,649,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/353.jpg 140,34,758,803,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/354.jpg 641,3,804,221,1 262,6,428,230,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/355.jpg 328,24,643,392,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/361.jpg 532,52,896,483,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/363.jpg 90,21,831,1046,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/374.jpg 353,74,646,421,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/375.jpg 465,221,944,908,1 36,22,494,734,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/38.jpg 75,32,232,245,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/380.jpg 452,162,689,462,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/387.jpg 521,220,703,441,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/389.jpg 396,83,588,307,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/39.jpg 207,38,331,219,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/391.jpg 223,123,449,303,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/393.jpg 77,17,443,507,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/4.jpg 19,2,101,98,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/40.jpg 436,18,730,393,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/400.jpg 88,34,765,978,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/401.jpg 144,9,496,469,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/402.jpg 216,22,721,682,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/406.jpg 224,58,588,535,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/410.jpg 218,63,544,503,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/411.jpg 103,7,206,124,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/414.jpg 55,17,781,1017,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/416.jpg 486,7,744,380,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/417.jpg 155,30,219,109,1 296,81,345,141,1 14,74,80,168,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/420.jpg 58,9,248,296,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/436.jpg 312,48,545,284,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/445.jpg 204,94,644,722,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/448.jpg 88,4,366,331,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/455.jpg 230,33,399,269,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/459.jpg 94,16,301,273,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/462.jpg 188,24,661,597,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/465.jpg 176,31,372,296,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/467.jpg 171,17,419,310,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/476.jpg 40,23,160,180,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/478.jpg 156,62,569,492,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/480.jpg 50,53,160,193,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/481.jpg 20,1,106,77,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/482.jpg 34,2,450,483,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/484.jpg 167,13,451,382,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/488.jpg 18,15,169,229,0 207,15,353,200,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/497.jpg 366,68,611,353,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/50.jpg 114,1,338,294,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/503.jpg 377,100,550,284,1 747,1,913,182,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/504.jpg 218,132,299,267,1 527,243,675,381,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/505.jpg 495,1,668,148,1 727,559,853,705,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/506.jpg 558,360,806,671,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/508.jpg 440,183,750,670,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/509.jpg 316,5,571,276,1 536,61,735,300,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/510.jpg 88,202,188,335,1 273,176,366,317,1 385,224,476,346,1 531,260,643,387,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/511.jpg 331,65,646,475,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/515.jpg 586,169,746,357,1 214,210,374,407,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/517.jpg 189,12,896,950,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/519.jpg 416,1,779,375,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/520.jpg 587,79,853,542,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/522.jpg 294,11,755,759,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/523.jpg 194,144,388,344,1 570,86,748,271,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/527.jpg 561,89,701,324,1 706,19,893,230,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/528.jpg 115,1,294,235,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/529.jpg 367,94,549,334,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/532.jpg 541,305,646,448,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/533.jpg 449,45,641,317,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/534.jpg 370,84,585,318,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/535.jpg 334,73,515,359,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/537.jpg 27,7,75,73,0 143,36,210,132,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/538.jpg 217,11,527,457,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/54.jpg 105,6,205,119,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/540.jpg 373,133,692,560,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/541.jpg 99,53,177,164,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/542.jpg 11,3,132,130,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/543.jpg 257,226,445,451,1 787,220,961,434,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/544.jpg 140,254,376,564,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/546.jpg 2,182,70,288,1 134,151,234,275,1 247,241,274,287,1 314,201,384,275,1 448,213,511,290,1 395,223,431,271,1 571,191,628,265,1 703,105,814,250,1 949,123,1021,219,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/547.jpg 457,11,659,265,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/548.jpg 304,79,601,462,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/549.jpg 216,154,732,873,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/550.jpg 50,13,375,372,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/551.jpg 370,40,512,216,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/552.jpg 282,194,357,286,1 607,170,692,284,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/553.jpg 297,101,826,906,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/554.jpg 58,240,198,387,1 189,143,295,272,1 637,229,761,384,1 751,193,852,317,1 847,160,952,281,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/556.jpg 59,28,180,186,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/558.jpg 15,3,337,258,1 379,7,697,263,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/559.jpg 228,191,563,622,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/561.jpg 695,98,972,427,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/562.jpg 660,46,944,390,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/563.jpg 447,149,596,365,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/564.jpg 439,5,663,298,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/565.jpg 523,69,653,207,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/567.jpg 159,15,350,257,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/568.jpg 44,3,161,122,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/569.jpg 572,819,741,959,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/570.jpg 206,127,294,244,0 590,93,694,224,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/571.jpg 90,10,761,747,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/572.jpg 180,60,233,131,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/573.jpg 121,271,194,375,1 227,310,309,396,1 448,290,547,400,1 685,252,794,400,1 779,238,879,369,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/574.jpg 263,128,896,1037,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/575.jpg 6,99,67,176,0 70,136,136,212,0 110,23,171,92,0 176,51,231,126,0 226,118,294,195,0 264,8,329,93,1 336,42,399,131,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/576.jpg 325,167,514,419,1 13,46,171,310,1 463,7,633,121,1 5,339,109,595,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/577.jpg 56,53,263,365,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/58.jpg 205,190,698,903,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/580.jpg 63,6,420,507,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/581.jpg 65,30,234,267,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/584.jpg 230,316,503,684,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/585.jpg 408,243,766,768,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/586.jpg 159,17,233,123,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/587.jpg 187,136,466,470,1 545,67,798,368,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/588.jpg 287,141,413,292,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/59.jpg 355,116,691,476,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/592.jpg 400,406,629,647,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/593.jpg 221,103,406,301,1 483,82,641,322,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/594.jpg 258,21,449,274,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/595.jpg 84,54,337,387,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/597.jpg 38,98,93,179,1 181,117,231,193,1 277,62,334,148,1 388,49,449,133,1 506,39,559,121,1 609,40,666,129,1 713,68,774,139,1 801,87,852,167,1 907,93,969,174,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/598.jpg 104,7,233,196,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/599.jpg 500,184,757,514,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/600.jpg 194,1,339,153,1 730,11,830,160,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/603.jpg 372,194,564,452,1 728,166,889,390,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/604.jpg 71,28,164,149,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/605.jpg 504,169,611,313,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/606.jpg 466,42,578,190,1 932,48,1016,180,1 4,51,60,185,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/607.jpg 45,4,165,146,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/61.jpg 330,35,550,331,1 603,132,790,387,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/610.jpg 232,31,389,256,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/611.jpg 199,7,700,654,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/613.jpg 299,78,535,394,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/614.jpg 203,162,302,288,1 715,170,812,303,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/617.jpg 420,72,907,755,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/618.jpg 405,5,714,404,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/619.jpg 260,131,432,367,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/621.jpg 66,11,253,264,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/623.jpg 458,200,511,262,1 595,135,650,211,1 757,349,796,401,1 550,372,582,404,1 587,359,620,398,1 418,361,455,404,1 342,350,382,393,1 301,354,331,395,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/624.jpg 303,843,430,1028,1 612,561,768,761,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/626.jpg 141,5,473,400,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/627.jpg 127,8,180,92,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/628.jpg 153,315,615,820,1 482,164,917,624,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/629.jpg 170,29,362,266,1 628,58,728,188,1 765,80,855,201,1 912,79,1012,196,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/631.jpg 179,44,358,290,1 276,245,403,406,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/633.jpg 47,24,128,148,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/634.jpg 155,59,562,609,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/635.jpg 77,16,783,682,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/638.jpg 244,146,394,366,0 546,25,697,266,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/639.jpg 184,12,457,345,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/640.jpg 515,126,781,504,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/641.jpg 175,5,244,109,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/642.jpg 126,18,188,104,1 244,20,301,97,0 26,27,77,97,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/643.jpg 242,7,474,320,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/644.jpg 272,36,671,584,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/645.jpg 70,62,190,214,0 337,32,383,91,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/646.jpg 337,146,646,596,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/647.jpg 17,61,335,396,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/648.jpg 171,31,540,475,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/649.jpg 66,74,289,360,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/650.jpg 151,12,432,358,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/651.jpg 48,2,153,139,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/652.jpg 349,56,477,258,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/653.jpg 355,13,585,279,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/655.jpg 490,58,726,378,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/657.jpg 134,11,207,105,1 396,18,461,123,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/658.jpg 80,12,256,279,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/659.jpg 390,41,621,393,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/661.jpg 225,33,663,599,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/662.jpg 148,205,429,561,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/663.jpg 236,146,353,316,1 683,140,810,319,1 687,463,825,642,1 210,436,329,608,1 243,802,367,985,1 762,812,883,981,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/664.jpg 450,122,669,412,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/665.jpg 348,53,635,461,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/666.jpg 243,108,722,781,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/667.jpg 182,111,344,337,1 427,34,595,259,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/669.jpg 465,110,552,215,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/670.jpg 19,188,162,407,0 186,200,338,379,0 366,142,503,351,0 522,243,691,491,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/671.jpg 263,124,655,613,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/672.jpg 17,177,319,527,0 418,191,773,615,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/673.jpg 30,73,94,177,0 113,46,201,161,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/676.jpg 250,67,522,393,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/678.jpg 120,6,218,123,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/679.jpg 124,48,338,281,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/680.jpg 182,171,296,296,1 135,120,186,170,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/684.jpg 647,32,737,156,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/685.jpg 46,5,389,423,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/687.jpg 97,40,358,401,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/688.jpg 482,39,679,293,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/690.jpg 45,30,299,386,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/691.jpg 136,262,371,563,0 489,238,665,428,0 483,525,672,749,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/692.jpg 147,4,278,168,1 696,6,794,135,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/693.jpg 744,286,870,422,1 82,228,223,376,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/694.jpg 151,107,353,339,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/695.jpg 123,65,207,195,1 296,74,359,176,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/696.jpg 454,115,602,354,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/698.jpg 395,188,652,516,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/701.jpg 186,24,385,313,1 26,91,139,253,1 433,186,518,344,1 695,160,904,413,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/702.jpg 381,79,468,180,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/703.jpg 87,20,406,499,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/704.jpg 391,157,547,364,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/705.jpg 88,42,185,180,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/706.jpg 238,21,375,196,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/707.jpg 72,164,109,212,0 163,156,201,211,0 122,109,161,158,0 168,58,210,111,0 112,59,159,104,0 115,10,167,54,1 62,57,102,108,0 11,5,60,58,0 14,111,55,159,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/708.jpg 407,274,485,379,1 602,242,683,360,1 758,231,814,315,1 804,191,888,294,1 887,113,998,252,1 322,343,386,420,1 283,318,321,385,1 179,350,245,425,1 89,377,156,444,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/709.jpg 97,76,174,178,1 161,19,232,109,1 431,102,516,198,1 504,11,585,119,1 801,74,871,182,1 855,7,944,122,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/710.jpg 157,24,235,135,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/711.jpg 303,24,820,686,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/712.jpg 267,1,689,628,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/713.jpg 131,37,337,325,1 273,6,431,192,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/714.jpg 69,155,136,252,1 174,170,231,274,1 266,132,324,221,1 305,183,379,280,1 405,186,474,276,1 495,179,573,289,1 671,136,745,251,1 762,150,836,264,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/715.jpg 163,285,246,378,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/716.jpg 349,51,647,495,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/717.jpg 322,25,793,734,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/718.jpg 558,215,657,326,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/719.jpg 157,71,429,460,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/72.jpg 64,26,138,126,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/721.jpg 444,51,666,374,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/722.jpg 197,57,434,373,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/723.jpg 257,171,388,313,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/724.jpg 435,24,692,434,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/725.jpg 276,279,779,953,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/726.jpg 135,21,348,257,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/727.jpg 54,13,212,238,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/728.jpg 238,5,754,746,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/729.jpg 109,28,360,332,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/731.jpg 590,327,664,457,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/733.jpg 206,120,446,424,0 520,290,713,562,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/735.jpg 690,131,945,467,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/736.jpg 96,123,201,262,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/737.jpg 225,91,924,1032,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/739.jpg 197,105,336,265,1 456,98,615,259,1 871,334,963,438,1 336,279,419,396,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/74.jpg 536,194,773,507,1 101,112,357,429,1 363,134,596,457,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/740.jpg 246,7,363,154,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/741.jpg 115,88,202,213,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/742.jpg 104,108,188,229,1 161,27,241,156,1 251,2,344,151,1 386,56,479,204,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/743.jpg 128,20,172,92,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/744.jpg 94,40,232,229,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/745.jpg 382,175,682,557,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/746.jpg 491,69,734,368,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/747.jpg 285,206,498,498,1 606,377,829,662,1 388,644,617,944,1 171,850,391,1155,1 145,534,327,808,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/748.jpg 212,41,376,250,1 710,70,879,264,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/749.jpg 149,19,198,90,1 240,10,300,88,0 370,31,427,115,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/750.jpg 485,132,638,287,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/752.jpg 87,25,234,226,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/753.jpg 152,130,417,543,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/754.jpg 29,14,126,112,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/755.jpg 112,53,258,270,1 569,153,720,380,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/756.jpg 268,38,799,672,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/758.jpg 509,69,709,325,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/759.jpg 99,26,369,409,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/761.jpg 232,147,476,439,1 478,57,761,442,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/762.jpg 265,90,663,564,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/764.jpg 457,263,763,642,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/765.jpg 477,13,671,269,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/766.jpg 343,23,477,200,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/767.jpg 43,137,163,300,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/769.jpg 343,259,658,660,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/771.jpg 446,133,725,586,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/772.jpg 179,2,239,90,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/773.jpg 115,14,206,127,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/774.jpg 68,5,109,50,1 33,1,64,25,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/775.jpg 431,61,678,410,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/776.jpg 403,241,594,462,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/777.jpg 6,62,84,184,0 126,33,216,176,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/778.jpg 295,49,748,570,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/779.jpg 422,69,642,345,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/780.jpg 170,146,806,939,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/781.jpg 21,11,130,136,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/782.jpg 402,139,685,504,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/783.jpg 509,26,653,180,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/784.jpg 277,85,339,182,1 379,115,441,195,1 498,134,556,219,1 606,85,671,169,1 711,77,764,165,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/785.jpg 169,71,299,222,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/786.jpg 263,45,454,277,1 608,21,844,281,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/787.jpg 106,33,366,413,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/788.jpg 199,75,583,654,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/789.jpg 388,81,580,362,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/790.jpg 37,4,446,384,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/791.jpg 228,171,384,349,1 583,185,726,402,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/792.jpg 394,88,591,366,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/793.jpg 497,32,768,409,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/794.jpg 472,277,565,414,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/798.jpg 663,67,711,153,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/799.jpg 233,64,461,404,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/8.jpg 29,3,168,111,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/800.jpg 376,81,635,444,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/802.jpg 110,96,208,230,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/803.jpg 42,2,142,121,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/804.jpg 56,100,173,259,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/806.jpg 288,42,701,624,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/807.jpg 143,32,304,236,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/809.jpg 208,371,276,480,1 313,378,381,487,1 475,362,543,471,1 590,354,658,463,1 752,364,820,473,1 672,53,751,171,1 518,61,597,179,1 352,40,431,158,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/810.jpg 386,82,584,377,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/811.jpg 119,22,439,413,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/815.jpg 672,513,1022,1020,1 1229,239,1565,646,1 1623,313,1772,502,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/817.jpg 267,34,646,429,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/819.jpg 112,13,241,176,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/82.jpg 79,21,254,268,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/821.jpg 375,38,607,344,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/823.jpg 144,283,841,1001,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/824.jpg 271,15,354,124,0 43,6,173,187,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/825.jpg 223,37,485,363,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/827.jpg 400,148,519,318,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/832.jpg 127,16,581,538,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/841.jpg 79,13,265,218,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/846.jpg 444,243,538,364,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/848.jpg 50,46,228,272,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/85.jpg 383,18,639,360,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/851.jpg 61,2,182,125,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/855.jpg 147,146,286,353,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/856.jpg 52,7,170,177,0 193,5,283,115,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/86.jpg 399,49,758,594,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/861.jpg 31,9,342,424,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/862.jpg 266,20,581,447,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/869.jpg 108,32,206,172,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/870.jpg 322,129,473,329,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/874.jpg 119,147,196,266,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/88.jpg 71,33,254,305,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/880.jpg 85,15,245,245,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/881.jpg 433,107,771,611,0 48,66,378,506,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/89.jpg 148,122,859,1146,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/890.jpg 233,127,600,574,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/891.jpg 399,85,688,416,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/904.jpg 236,55,565,470,0 23,42,233,350,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/908.jpg 93,36,193,133,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/91.jpg 99,208,240,378,1 349,274,480,422,1 524,130,653,275,1 797,162,910,304,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/910.jpg 120,86,350,344,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/924.jpg 173,15,263,113,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/925.jpg 64,30,121,99,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/927.jpg 107,26,240,198,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/928.jpg 150,22,268,181,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/93.jpg 236,85,504,445,1 531,57,837,487,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/943.jpg 37,8,84,64,0 148,54,199,127,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/945.jpg 71,2,288,292,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/947.jpg 122,31,172,92,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/953.jpg 272,44,471,261,0 576,206,662,292,0 773,36,940,265,1
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/954.jpg 181,63,500,556,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/957.jpg 153,80,379,377,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/959.jpg 222,66,382,216,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/960.jpg 102,308,139,351,1 59,128,133,212,1 216,73,287,146,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/962.jpg 141,88,318,330,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/964.jpg 149,58,342,296,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/965.jpg 3,48,125,245,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/971.jpg 65,164,351,555,0 462,116,760,474,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/973.jpg 273,214,779,732,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/983.jpg 283,438,491,677,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/986.jpg 65,39,367,387,0 536,80,781,418,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/988.jpg 95,366,220,518,0 350,383,457,518,0 573,271,715,429,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/994.jpg 135,8,321,280,0
+C:\Users\Breeze\Desktop\keras-yolo3-master/VOCdevkit/VOC2020/JPEGImages/999.jpg 240,101,509,493,0
